@@ -1,0 +1,16 @@
+service_id,category,service_name,unit_cost_ksh
+S001,Consultation,Base Consultation Fee,2500
+S002,Diagnostics,Laboratory Tests,1500
+S003,Diagnostics,X-Ray Scan,3500
+S004,Diagnostics,MRI Scan,25000
+S005,Diagnostics,CT Scan,15000
+S006,Treatment,General Medication,1200
+S007,Maternity,Normal Delivery Package,55000
+S008,Maternity,C-Section Delivery Package,165000
+S009,Maternity,Nursery / Baby Area Care,5000
+S010,Inpatient,General Ward Bed,2500
+S011,Inpatient,HDU Bed,18000
+S012,Inpatient,ICU Bed,40000
+S013,Treatment,Casting (Hand/Leg Fracture),12500
+S014,Treatment,Major Orthopedic Surgery,280000
+S015,Referral,Specialist Referral,4500
